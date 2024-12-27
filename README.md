@@ -1,5 +1,5 @@
 ```markdown
-# FastAPI Pinecone Data Retriever
+# FastAPI Pinecone Retriever
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-green)](https://fastapi.tiangolo.com/)
