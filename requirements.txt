@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.23.1
+python-dotenv==1.0.0
+pandas==2.1.1
+openpyxl==3.1.2
+pinecone-client==2.2.0
+aiofiles==23.1.0
