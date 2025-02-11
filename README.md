@@ -25,7 +25,7 @@ This project uses FastAPI to create an efficient data retriever integrated with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fastapi-pinecone-retriever.git
+   git clone https://github.com/Peeradech-Phola/Pinecone_Retriever_API.git
    cd fastapi-pinecone-retriever
    ```
 
